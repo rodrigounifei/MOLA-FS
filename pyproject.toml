@@ -1,0 +1,7 @@
+[project]
+name = "mola-fs"
+version = "0.1.0"
+description = "Multi-objective Lichtenberg Algorithm for feature selection"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
